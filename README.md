@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Rafael Melo 👊</h1> 
 
-<h3 align="center">A brazlian passionate frontend developer</h3>
+<h3 align="center">A brazilian passionate frontend developer</h3>
 
 <p align="center">Hello, I'm Rafael Melo, web developer junior with passion for technology. Acquired skills through courses and hands-on projects. Committed to delivering high-quality, user-friendly websites and applications that meet and exceed clients' expectations.</p>
 
