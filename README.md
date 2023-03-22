@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmelodeveloper/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelmelo2908)
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliorafaelmelo.vercel.app/index.html)
+[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliorafaelmelo-seven.vercel.app/)
 
 
 ![Rafael Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmelo2908&show_icons=true&theme=tokyonight)
